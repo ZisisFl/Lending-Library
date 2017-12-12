@@ -1,0 +1,18 @@
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\bin\Debug\Lending Library.exe.config
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending Library.csprojResolveAssemblyReference.cache
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending_Library.menu.resources
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending_Library.Properties.Resources.resources
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending Library.csproj.GenerateResource.Cache
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\bin\Debug\Lending Library.exe
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\bin\Debug\Lending Library.pdb
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending Library.exe
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending Library.pdb
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending_Library.new_book.resources
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending_Library.book_delete.resources
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending_Library.book_list.resources
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending_Library.lend_book.resources
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending_Library.return_book.resources
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\bin\Debug\Lending Library.exe.manifest
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\bin\Debug\Lending Library.application
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending Library.exe.manifest
+c:\users\z\documents\visual studio 2015\Projects\Lending Library\Lending Library\obj\Debug\Lending Library.application
